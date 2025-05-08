@@ -1,9 +1,9 @@
 {
   "@context": "https://schema.org",
   "@type": "WebPage",
-  "name": "MoodWheel Home",
-  "url": "https://moodwheel.heytcm.com/app/home",
-  "description": "探索 MoodWheel 应用的核心功能，开始您的情绪管理之旅。",
+  "name": "MoodWheel Journal",
+  "url": "https://moodwheel.heytcm.com/app/journal",
+  "description": "记录您的情绪日记，追踪您的心路历程。",
   "isPartOf": {
     "@id": "https://moodwheel.heytcm.com/#website"
   },

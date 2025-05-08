@@ -1,57 +1,48 @@
-# Vision Board App - 网站完整介绍
-> Vision Board App 是一款专为显化方法和个人成长设计的多媒体愿望板应用，面向希望通过视觉化和科学方法实现目标的用户。支持多语言、移动端优先、社区互动和个性化定制，帮助用户高效、愉悦地实现梦想。
+# MoodWheel - 网站完整介绍
+> MoodWheel 是一款基于情绪轮盘意象的情绪探索与记录应用，旨在帮助用户更好地理解、表达和管理情绪。它使用户能够将每一种感受都转化为个人成长的资源。
 
 ## 网站背景
-Vision Board App 诞生于用户对专业显化工具的强烈需求。我们关注个人成长和目标实现领域，致力于用科技提升每个人的行动力。愿景是让显化变得科学、易用、有趣，并通过视觉、音频、社区等多维度体验，帮助用户持续专注于梦想，最终实现自我突破。
+MoodWheel 的创建旨在为情绪探索和心理健康提供一个专门的工具。它利用情绪轮盘的直观概念，帮助用户导航和清晰表达自己的感受，从而培养自我意识和情商。其愿景是让情绪理解变得易于 erişilebilir (accessible) 和富有洞察力。
 
 ## 主要网址说明（根据 sitemap.xml）
-- https://visionboard.heymanifestation.com
-  - 官网首页，介绍 Vision Board App 的核心理念、主要功能和用户价值。
-- https://visionboard.heymanifestation.com/app/home.html
-  - 用户的愿望板主页，展示个人愿望、目标进度和推荐内容。
-- https://visionboard.heymanifestation.com/app/profile.html
-  - 用户个人中心，管理资料、成就、订阅和隐私设置。
-- https://visionboard.heymanifestation.com/app/progress.html
-  - 目标进度追踪，科学记录和可视化用户的成长与实现路径。
-- https://visionboard.heymanifestation.com/app/community
-  - 社区互动区，用户可分享愿望、成功经验，参与挑战和讨论。
-- https://visionboard.heymanifestation.com/app/create
-  - 愿望板创建与编辑页面，支持多模板、多媒体、拖拽与自定义。
-- https://visionboard.heymanifestation.com/zh/app/home.html
-  - 中文版愿望板主页，内容与英文版同步，适配中文用户体验。
-- https://visionboard.heymanifestation.com/zh/app/profile.html
-  - 中文版个人中心。
-- https://visionboard.heymanifestation.com/zh/app/progress.html
-  - 中文版进度追踪。
+- https://moodwheel.heytcm.com/app/home
+  - 主要页面，以交互式 MoodWheel 为特色，用于情绪探索。
+- https://moodwheel.heytcm.com/app/journal
+  - 用于记录情绪体验，包括强度、描述和多媒体内容。
+- https://moodwheel.heytcm.com/app/analysis
+  - 通过各种可视化方式提供情绪模式和历史分析。
+- https://moodwheel.heytcm.com/app/journey
+  - 一个游戏化的情绪探索地图，用于发现和理解广泛的情绪。
+- https://moodwheel.heytcm.com/app/toolkit
+  - 提供一个包含冥想和练习等资源的工具箱，用于情绪调节。
+- https://moodwheel.heytcm.com/privacy
+  - 详细说明应用程序的隐私政策。
+- https://moodwheel.heytcm.com/terms
+  - 概述使用 MoodWheel 的服务条款。
 
 ## 内容分类详情
-### [愿望板创建与管理](https://visionboard.heymanifestation.com/app/create)
-支持多模板、拖拽、图片/音频/语音等多媒体内容，帮助用户个性化定制愿望板。
+### [MoodWheel 情绪探索](https://moodwheel.heytcm.com/app/home)
+交互式轮盘导航，逐层探索情绪，从基本感觉到细微状态。
 
-### [成长与进度追踪](https://visionboard.heymanifestation.com/app/progress.html)
-科学记录目标实现过程，数据可视化，激励用户持续行动。
+### [情绪日记与记录](https://moodwheel.heytcm.com/app/journal)
+记录情绪详情，如强度评分、文字描述以及可选的照片/语音附件。
 
-### [社区与灵感](https://visionboard.heymanifestation.com/app/community)
-用户可交流愿望、分享经验、参与挑战，获得更多灵感与支持。
+### [情绪模式分析](https://moodwheel.heytcm.com/app/analysis)
+使用时间轴、日历或热力图可视化情绪历史和趋势，以识别模式和触发因素。
+
+### [心情探索地图](https://moodwheel.heytcm.com/app/journey)
+参与游戏化体验，探索并解锁全面的情绪地图。
+
+### [情绪调节工具箱](https://moodwheel.heytcm.com/app/toolkit)
+访问一套精选工具和练习，如引导冥想或音乐，旨在帮助管理和平衡情绪。
 
 ## 用户价值
-- 让显化变得科学、系统、可持续，提升目标实现率。
-- 提供多媒体沉浸体验，激发潜意识，增强行动力。
-- 支持多语言和个性化，适配全球用户。
-- 活跃社区，助力用户互相激励、共同成长。
-- 数据隐私与安全保障，用户信息自主可控。
+- 通过帮助用户准确识别和表达情绪，增强自我意识。
+- 通过结构化的探索和记录，促进情绪理解和管理。
+- 为主动的心理健康提供关于个人情绪模式和触发因素的洞察。
+- 提供实用工具和资源，以实现有效的情绪调节。
+- 通过将情绪体验转化为学习机会，支持个人成长之旅。
 
-## 最新更新内容
-- 首页视频演示与 intro-en.html 页面联动，提升新用户引导体验。
-- SEO 动态 meta、alternate、ldjson 自动注入，全面优化搜索引擎友好度。
-- 支持 AI Scraper 友好的 robots.txt 及多语言 sitemap。
-- 新增批量结构化数据注入和多语言内容适配。
-
-### [首页](https://visionboard.heymanifestation.com)
-- 新增响应式视频演示，优化视觉吸引力。
-
-### [intro-en.html](https://visionboard.heymanifestation.com/intro-en.html)
-- 视频详细介绍页面，作为首页视频内容来源。
-
-### [sitemap.xml](https://visionboard.heymanifestation.com/sitemap.xml)
-- 支持多语言、动态检测和配置化，确保所有重要页面均被收录。
+## 技术 SEO 优化
+- 动态注入 SEO 元标签、备用语言链接和 LD+JSON 结构化数据，以实现最佳搜索引擎可见性和多语言支持。
+- AI Scraper 友好的配置和全面的站点地图确保有效的抓取和索引。

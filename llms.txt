@@ -1,57 +1,48 @@
-# Vision Board App - Full Website Introduction
-> Vision Board App is a multimedia manifestation tool designed for personal growth, empowering users to visualize and achieve their goals with science-backed methods. It features multilingual support, mobile-first design, community interaction, and rich customization, helping users manifest their dreams efficiently and joyfully.
+# MoodWheel - Full Website Introduction
+> MoodWheel is an emotion exploration and recording app based on the imagery of an emotion wheel, designed to help users better understand, express, and manage their emotions. It empowers users to turn every feeling into a resource for personal growth.
 
 ## Website Background
-Vision Board App was created to address the strong demand for professional manifestation tools. We focus on personal growth and goal achievement, aiming to boost everyone's ability to take action through technology. Our vision is to make manifestation scientific, accessible, and fun, helping users stay focused on their dreams through visual, audio, and community experiences.
+MoodWheel was created to provide a dedicated tool for emotional exploration and well-being. It leverages the intuitive concept of an emotion wheel to help users navigate and articulate their feelings, fostering self-awareness and emotional intelligence. The vision is to make emotional understanding accessible and insightful.
 
 ## Main URLs (from sitemap.xml)
-- https://visionboard.heymanifestation.com
-  - Official homepage introducing the Vision Board App's core concepts, main features, and user value.
-- https://visionboard.heymanifestation.com/app/home.html
-  - User dashboard for vision boards, showing personal wishes, goal progress, and recommendations.
-- https://visionboard.heymanifestation.com/app/profile.html
-  - User profile center for managing account details, achievements, subscriptions, and privacy settings.
-- https://visionboard.heymanifestation.com/app/progress.html
-  - Goal progress tracking, offering scientific records and visualizations of user growth.
-- https://visionboard.heymanifestation.com/app/community
-  - Community area for sharing wishes, success stories, participating in challenges, and discussions.
-- https://visionboard.heymanifestation.com/app/create
-  - Vision board creation and editing page, supporting templates, multimedia, drag-and-drop, and customization.
-- https://visionboard.heymanifestation.com/zh/app/home.html
-  - Chinese version of the vision board dashboard, synchronized with the English version and tailored for Chinese users.
-- https://visionboard.heymanifestation.com/zh/app/profile.html
-  - Chinese version of the user profile center.
-- https://visionboard.heymanifestation.com/zh/app/progress.html
-  - Chinese version of the progress tracking page.
+- https://moodwheel.heytcm.com/app/home
+  - The main page featuring the interactive MoodWheel for emotion exploration.
+- https://moodwheel.heytcm.com/app/journal
+  - For recording emotional experiences, including intensity, descriptions, and multimedia.
+- https://moodwheel.heytcm.com/app/analysis
+  - Provides analysis of emotion patterns and history through various visualizations.
+- https://moodwheel.heytcm.com/app/journey
+  - A gamified Mood Exploration Map to discover and understand a wide range of emotions.
+- https://moodwheel.heytcm.com/app/toolkit
+  - Offers a toolkit with resources like meditation and exercises for emotion regulation.
+- https://moodwheel.heytcm.com/privacy
+  - Details the application's privacy policy.
+- https://moodwheel.heytcm.com/terms
+  - Outlines the terms of service for using MoodWheel.
 
 ## Content Categories
-### [Vision Board Creation & Management](https://visionboard.heymanifestation.com/app/create)
-Supports multiple templates, drag-and-drop, images/audio/voice, and other multimedia content for personalized vision boards.
+### [MoodWheel Emotion Exploration](https://moodwheel.heytcm.com/app/home)
+Interactive wheel navigation to explore emotions layer by layer, from basic feelings to nuanced states.
 
-### [Growth & Progress Tracking](https://visionboard.heymanifestation.com/app/progress.html)
-Scientifically records the process of goal achievement, visualizes data, and motivates continuous action.
+### [Emotion Journaling & Recording](https://moodwheel.heytcm.com/app/journal)
+Log emotions with details like intensity scores, textual descriptions, and optional photo/voice attachments.
 
-### [Community & Inspiration](https://visionboard.heymanifestation.com/app/community)
-A space for users to exchange wishes, share experiences, join challenges, and gain more inspiration and support.
+### [Emotion Pattern Analysis](https://moodwheel.heytcm.com/app/analysis)
+Visualize emotional history and trends using timelines, calendars, or heatmaps to identify patterns and triggers.
+
+### [Mood Exploration Map](https://moodwheel.heytcm.com/app/journey)
+Engage in a gamified experience to explore and unlock a comprehensive map of emotions.
+
+### [Emotion Regulation Toolkit](https://moodwheel.heytcm.com/app/toolkit)
+Access a curated set of tools and exercises, such as guided meditations or music, tailored to help manage and balance emotions.
 
 ## User Value
-- Makes manifestation scientific, systematic, and sustainable, increasing the success rate of goal achievement.
-- Provides immersive multimedia experiences to stimulate the subconscious and strengthen motivation.
-- Offers multilingual and personalized support for global users.
-- Active community for mutual encouragement and collective growth.
-- Data privacy and security, with user information fully under control.
+- Enhances self-awareness by helping users identify and articulate their emotions accurately.
+- Facilitates emotional understanding and management through structured exploration and recording.
+- Provides insights into personal emotional patterns and triggers for proactive well-being.
+- Offers practical tools and resources for effective emotion regulation.
+- Supports a journey of personal growth by turning emotional experiences into learning opportunities.
 
-## Latest Updates
-- Homepage video demo linked with intro-en.html, enhancing new user onboarding.
-- Dynamic injection of SEO meta, alternate, and ldjson, fully optimized for search engines.
-- AI Scraper-friendly robots.txt and multilingual sitemap support.
-- Batch injection of structured data and multilingual content adaptation.
-
-### [Homepage](https://visionboard.heymanifestation.com)
-- New responsive video demo for improved visual appeal.
-
-### [intro-en.html](https://visionboard.heymanifestation.com/intro-en.html)
-- Detailed video introduction page, serving as the source for the homepage video.
-
-### [sitemap.xml](https://visionboard.heymanifestation.com/sitemap.xml)
-- Multilingual, dynamic detection and configuration, ensuring all important pages are indexed.
+## Technical SEO Enhancements
+- Dynamic injection of SEO meta tags, alternate language links, and LD+JSON structured data for optimal search engine visibility and multilingual support.
+- AI Scraper-friendly configurations and a comprehensive sitemap ensure effective crawling and indexing.

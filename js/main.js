@@ -36,7 +36,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 // 加载语言文件
 function loadLanguage(lang) {
-    fetch(`locale/${lang}.json`)
+    fetch(`/locale/${lang}/index.json`) // Use root-relative path
         .then(response => response.json())
         .then(data => {
             updateContent(data);
