@@ -1,22 +1,97 @@
-manually build site with help of websim
+## 🌈 App 名称：**MoodWheel**
 
+一个基于情绪轮盘意象的情绪探索与记录应用，帮助用户更好地理解、表达和管理情绪。
 
+---
 
-this may not perfect but is a start
+## 🧩 核心创意元素
 
+### 🎡 **轮盘式情绪导航**
 
-## feature 
+* 采用 Plutchik 或拓展版的情绪轮盘作为核心视觉与交互组件。
+* 用户通过点击不同区域，**逐层探索**：一级（基础情绪）→ 二级（具体感受）→ 三级（细致情绪）。
+* 动效模拟「拨开情绪的洋葱」，层层深入。
 
+---
 
-1. auto generate sitemap based on lang subfolder,including .html files
-2. auto check seo requirements avoid google redirection and not index issue
-3. auto submit url to google index use indexnow
-4.pc mobile responsive
-5. seo metadata
-6. google analytic and microsoft clarity
-7. pwa support
-8. keyword research
-   umbrella  trend  kgr spyfu
-10.  user  https://github.com/wanghaisheng/workers-users-cloudflare/tree/main
+## ✨ 核心功能模块设计
 
-11.  
+### 1. 🌀 **MoodWheel 情绪探索轮盘**
+
+* 首页即为情绪轮盘，点击某个一级情绪（如“Sad”）展开子类。
+* 中心浮现当前选择路径，例如「Sad → Lonely → Abandoned」。
+* 每一级有返回按钮，支持自由探索。
+
+---
+
+### 2. 📖 **记录情绪日记**
+
+* 在选中三级情绪后，进入情绪记录界面：
+
+  * 可以打分：0～10 情绪强度
+  * 输入文字：描述发生了什么
+  * 上传照片/语音（选填）
+* 自动记录时间与情绪路径
+* 可选择“是否公开给自己未来的我”
+
+---
+
+### 3. 📊 **情绪图谱（历史视图）**
+
+* 通过时间轴/日历/热力图查看自己情绪变化轨迹。
+* 支持筛选：查看过去30天的「愤怒」「快乐」趋势。
+* 导出 PDF 作为心理复盘日志。
+
+---
+
+### 4. 🧘 **情绪调节空间**
+
+* 根据情绪类型推荐内容：
+
+  * 🧘 放松音乐 / 冥想引导
+  * 📝 建议的写作练习
+  * 📺 轻松短片 / 视频
+  * 🧩 表达性任务（如画画、拼贴）
+* 可自定义收藏常用调节工具
+
+---
+
+### 5. 🧭 **心情探索地图（Gamify）**
+
+* 情绪探索如同环游情绪世界：
+
+  * 每选择并记录一种新的三级情绪，解锁一块地图碎片
+  * 情绪岛屿风格：悲伤岛、愤怒火山、希望花园、平静湖等
+* 集齐「100种情绪」可完成一次完整冒险之旅
+
+---
+
+## 🎨 UI 视觉设计风格建议
+
+| 元素   | 建议                               |
+| ---- | -------------------------------- |
+| 主色调  | 柔和渐变色 + 情绪色调联动（比如：Sad→蓝，Angry→红） |
+| 动画风格 | 轻柔展开、呼吸光效，增强沉浸感                  |
+| 轮盘图  | 三层彩色扇形，动态可缩放/转动                  |
+| 字体   | 简洁亲和（如 Rounded Gothic、Avenir）    |
+| 图标   | 情绪拟人化表情 + 轻量图示                   |
+
+---
+
+## 💡 名称延伸 & slogan 提案
+
+| 名称            | Slogan             |
+| ------------- | ------------------ |
+| **MoodWheel** | “转动你的感受，发现内心的彩虹。”  |
+| EmotionMap    | “每种情绪，都是你的一部分。”    |
+| FeelLoop      | “理解情绪的循环，找到自己的节奏。” |
+| 心感轮           | “感受，表达，成长。”（中文版名）  |
+
+---
+
+## 🚀 MoodWheel 的未来拓展方向
+
+* **AI 心情分析**：写下文字后自动识别情绪轮盘位置；
+* **社交模式**：与好友匿名互换心情、支持倾诉卡片；
+* **心理咨询接入**：严重情绪波动时推送专业资源。
+
